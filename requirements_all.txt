@@ -1864,6 +1864,9 @@ pytradfri[async]==7.0.5
 # homeassistant.components.trafikverket_weatherstation
 pytrafikverket==0.1.6.2
 
+# homeassistant.components.unifiprotect
+pyunifiprotect==0.26.8
+
 # homeassistant.components.uptimerobot
 pyuptimerobot==0.0.5
 

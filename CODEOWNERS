@@ -483,6 +483,7 @@ homeassistant/components/twentemilieu/* @frenck
 homeassistant/components/twinkly/* @dr1rrb
 homeassistant/components/unifi/* @Kane610
 homeassistant/components/unifiled/* @florisvdk
+homeassistant/components/unifiprotect/* @briis
 homeassistant/components/upb/* @gwww
 homeassistant/components/upc_connect/* @pvizeli @fabaff
 homeassistant/components/upcloud/* @scop
